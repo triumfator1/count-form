@@ -1,7 +1,5 @@
 <?php
 
-require_once 'backend/sdbh.php';
-
 class CountForm {
   private sdbh $db;
   private int $price;
